@@ -10,5 +10,8 @@ Some of the question which was answered here where
 4. What are the different order status in 2022
 5. List the top 10 states contributing in sales
 6. Relationship between age and gender based on number of orders
+
+
+Below is the output in the form of dashboard
  
 ![image](https://github.com/Somesh11097/Data-Analysis-using-Excel/assets/32162479/85ca6631-08e1-4433-8a61-c9fd48cea714)
